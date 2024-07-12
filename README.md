@@ -27,7 +27,14 @@ Greetings! This is my portfolio website which showcases my experiences and proje
 - Conducted empirical evaluation of the tracking model to understand its metric comparison to benchmark standards
 - Incorporated machine learning and computer vision tools (YOLO, Segmentation models, and XMem) to identify and track objects within video
 
+Paper Link: Upon request
 
+**Loan Default Prediction**
 
+*Overview:* This was an attempt at the Kaggle competition: Loan Default Prediction - Imperial College London
 
-** Loan Default Prediction
+*Applied Skills: Python, Machine Learning, Exploratory Data Analysis, Data Preprocessing, Decision Tree Classifiers (Random Forest, XGBoost, and AdaBoost)
+- Utilized machine learning techniques to predict a loan's default probability 
+- Incorporated feature selection to reduce computational complexity and provide insight into dataset selection
+
+Project Found Here: https://github.com/micsiler/loan_default_prediction_kaggle
