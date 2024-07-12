@@ -33,7 +33,7 @@ Paper Link: Upon request
 
 *Overview:* This was an attempt at the Kaggle competition: Loan Default Prediction - Imperial College London
 
-*Applied Skills: Python, Machine Learning, Exploratory Data Analysis, Data Preprocessing, Decision Tree Classifiers (Random Forest, XGBoost, and AdaBoost)
+*Applied Skills: Python, Machine Learning, Exploratory Data Analysis, Data Preprocessing, Decision Tree Classifiers (Random Forest, XGBoost, and AdaBoost)*
 - Utilized machine learning techniques to predict a loan's default probability 
 - Incorporated feature selection to reduce computational complexity and provide insight into dataset selection
 
