@@ -1,5 +1,5 @@
 
-Greetings! This is my portfolio website which showcases my experiences and projects. This includes many of the projects I have worked on recently with a focus on data science and machine learning. Feel free to contact me on LinkedIn.
+Greetings! This is my portfolio website which showcases my experiences and projects. This includes many of the projects I have worked on recently with a focus on machine learning and software engineering. Feel free to contact me on LinkedIn.
 
 ## Education
 - M.S. Computer Science | Indiana University Bloomington (2024)
